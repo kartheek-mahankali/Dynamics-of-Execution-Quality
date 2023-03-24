@@ -1,0 +1,6 @@
+"","variable","value","MarketCenter"
+"1","net_pi_mcaway_morder_wmean",1.40304635393268,"TCDRG202212.txt"
+"2","net_pi_mcaway_morder_sp500_wmean",1.76718012938779,"TCDRG202212.txt"
+"3","net_pi_mcaway_morder_notsp500_mean",1.30425910017171,"TCDRG202212.txt"
+"4","net_pi_mcaway_morder_wmed",0.579723672899991,"TCDRG202212.txt"
+"5","net_pi_mcaway_morder_sp500_wmed",0.674167223882217,"TCDRG202212.txt"
